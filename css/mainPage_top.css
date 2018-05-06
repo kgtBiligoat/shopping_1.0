@@ -1,0 +1,78 @@
+	/* 顶部盒子*/
+		.top{								
+			background-color:#E0E0E0;
+			height: 40px;
+			width:100%;
+			color: grey;
+			padding: 0px;
+			margin: 0px;
+			border-width: 
+			
+		}
+
+	/*顶部中间盒子左边*/	
+		.top_middle{
+			font-size: 15px;
+			
+			font-style:solid;
+			margin: 0px 60px;
+			padding: 5px 20px;
+			width: 400px;
+			height:20px;
+		}
+	/*顶部中间盒子左边超链接样式*/
+		.top_middle a{
+			text-decoration: none;
+			color: grey;
+			line-height: 33px;
+			font-size: 15px;
+		}
+		.top_middle a:hover{
+			cursor: pointer;
+			color:red;
+		}
+	/*顶部中间盒子右侧UL样式*/
+		.top_middle ul{
+			font-size: 15px;
+			list-style: none;
+			position: absolute;
+			left:1200px;
+			top:3px;
+
+		}
+		.top_middle ul em{
+			font-size: 15px;
+			cursor: pointer;
+		}
+		.top_middle ul li{
+			float:left;
+			
+		}
+		.top_middle ul a{
+			line-height: 7px;
+			
+		}
+
+		#top_search_page{
+			font-size: 15px;
+			padding: 2px;
+			background-color:#E0E0E0;
+			border-width: 1px;
+			border-color: #E0E0E0;
+			border-style: solid;
+			display: none;
+		}
+		#top_search_page ul{
+			padding: 0px;
+			margin: 0px;
+			list-style: none;
+			line-height: 30px;
+		}
+		#top_search_page ul a{
+			color: grey;
+			text-decoration: none;
+		}
+		#top_search_page ul a:hover{
+			
+			color: red;
+		}

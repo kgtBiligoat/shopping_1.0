@@ -1,0 +1,1 @@
+这是一个简单的静态页面，技术栈（html/css,javascript,jquery）,下载后可以直接在在网页中打开运行
